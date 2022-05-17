@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+
+div {
+    background-color: #ff000022;
+    width: 200pxheight: 50px;
+    margin: 100px;
+}
